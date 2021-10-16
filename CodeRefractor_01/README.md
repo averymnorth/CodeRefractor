@@ -1,6 +1,3 @@
-# 01_Code_Refactor_JGR
-BootCamp Homework - 01 HTML CSS Git: Code Refactor
-
 The Challenge
 
 Acceptance criteria for the webpage:
